@@ -1,2 +1,5 @@
-# telecovid_app_builds
-Telecovid builds
+# Telecovid APP
+Versões para download do APP telecovid
+
+## Site
+* telecovid.com
